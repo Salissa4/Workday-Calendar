@@ -15,7 +15,7 @@ Actions:
 
 ## Demo
 
-https://salissa4.github.io/
+https://salissa4.github.io/Workday-Calendar/
 
 <img src="./assets/images/">
 
