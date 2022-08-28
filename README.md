@@ -17,7 +17,7 @@ Actions:
 
 https://salissa4.github.io/Workday-Calendar/
 
-<img src="./assets/images/">
+<img src="./assets/images/wkday.jpg">
 
 ## Credits
 
