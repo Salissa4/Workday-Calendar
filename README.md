@@ -1,6 +1,6 @@
-# Workday-Calendar
+# Third Party API Calendar
 
-## Third Party API Calendar
+## Workday-Calendar
 
 Goal: Create a calendar application featuring dynamic HTML and Javascript powered by jQuery
 
