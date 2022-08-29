@@ -21,7 +21,7 @@ https://salissa4.github.io/Workday-Calendar/
 
 ## Credits
 
-Edited: 
+Edited: Shelby Hernandez    Github: https://github.com/Shernandez927
 
 ## License
 
